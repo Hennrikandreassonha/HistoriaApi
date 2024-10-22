@@ -1,5 +1,4 @@
 using OpenAI.ObjectModels.RequestModels;
-
 namespace HistoriaApi.Service;
 
     public class AiService

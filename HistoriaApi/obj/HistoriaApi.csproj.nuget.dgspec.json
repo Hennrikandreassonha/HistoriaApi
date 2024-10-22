@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj": {}
+    "c:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj": {
+    "c:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj",
+        "projectUniqueName": "c:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj",
         "projectName": "HistoriaApi",
-        "projectPath": "C:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj",
+        "projectPath": "c:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\HistoriaApi.csproj",
         "packagesPath": "C:\\Users\\Dator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\obj\\",
+        "outputPath": "c:\\Users\\Dator\\Henke\\VSCODE\\HistoriaApi\\HistoriaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dator\\AppData\\Roaming\\NuGet\\NuGet.Config",

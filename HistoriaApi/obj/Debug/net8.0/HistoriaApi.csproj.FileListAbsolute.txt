@@ -40,3 +40,4 @@ c:\Users\Dator\Henke\VSCODE\HistoriaApi\HistoriaApi\bin\Debug\net8.0\Microsoft.M
 c:\Users\Dator\Henke\VSCODE\HistoriaApi\HistoriaApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 c:\Users\Dator\Henke\VSCODE\HistoriaApi\HistoriaApi\bin\Debug\net8.0\OpenAI_API.dll
 c:\Users\Dator\Henke\VSCODE\HistoriaApi\HistoriaApi\obj\Debug\net8.0\Historia.9E842045.Up2Date
+c:\Users\Dator\Henke\VSCODE\HistoriaApi\HistoriaApi\obj\Debug\net8.0\HistoriaApi.sourcelink.json
