@@ -33,6 +33,6 @@ public class HistoryController : ControllerBase
     [HttpGet]
     public IActionResult Get()
     {
-        return Ok("Subject added");
+        return Ok("Subject added aa");
     }
 }
