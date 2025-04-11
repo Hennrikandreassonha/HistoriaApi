@@ -10,7 +10,7 @@ namespace HistoriaApi.Service
         public AiService AiService { get; set; }
         public FileService()
         {
-            AiService = new AiService(File.ReadAllLines("../openaiapikey.txt")[0]);
+            AiService = new AiService(File.ReadAllLines("../../HistoryEmailDocs/openaiapikey.txt")[0]);
         }
         public void AddSubject(string filePath, HistoryInput subject)
         {

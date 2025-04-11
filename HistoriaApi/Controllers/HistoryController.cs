@@ -22,17 +22,17 @@ public class HistoryController : ControllerBase
         }
         if (!_fileService.IsHistorySubject(input.Subject))
         {
-            _fileService.AddSubject("../NotHistoric.txt", input);
+            _fileService.AddSubject("../../NotHistoric.txt", input);
             return BadRequest("Not an historic event or subject");
         }
 
-        _fileService.AddSubject("../AiWeeklySubjects.txt", input);
+        _fileService.AddSubject("../../AiWeeklySubjects.txt", input);
 
         return Ok("Subject added");
     }
     [HttpGet]
     public IActionResult Get()
     {
-        return Ok("Subject added aa");
+        return Ok("Test GetRequest OK");
     }
 }
